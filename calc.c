@@ -5,7 +5,10 @@ int main() {
     char op;
     float num, num2;
     
+<<<<<<< HEAD
 
+=======
+>>>>>>> 96020e2d87b0e2a05fdc2d51ba23b084a03c8204
     printf("Enter operator: +, -, *, /\n");
     scanf("%c", &op);
     printf("Enter two numbers: \n");
