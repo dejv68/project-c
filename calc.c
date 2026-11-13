@@ -5,7 +5,6 @@ int main() {
     char op;
     float num, num2;
     
-    printf("fuck me");
 
     printf("Enter operator: +, -, *, /\n");
     scanf("%c", &op);
