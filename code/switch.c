@@ -12,16 +12,16 @@ int main() {
 
     switch (operators) {
 	case '+':
-	    printf("anwer: %2.lf\n", num1 + num2);
+	    printf("answer: %2.lf\n", num1 + num2);
 	    break;	
 	case '-':
-	    printf("anwer: %2.lf\n", num1 - num2);
+	    printf("answer: %2.lf\n", num1 - num2);
 	    break;	
 	case '/':
-	    printf("anwer: %2.lf\n", num1 / num2);
+	    printf("answer: %2.lf\n", num1 / num2);
 	    break;	
 	case '*':
-	    printf("anwer: %2.lf\n", num1 * num2);
+	    printf("answer: %2.lf\n", num1 * num2);
 	    break;	
     }
 
